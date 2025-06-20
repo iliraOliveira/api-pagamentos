@@ -19,5 +19,5 @@ Testando a geração do Token
 Fazendo a chamada a API com subscriptions errada
 ![image](https://github.com/user-attachments/assets/2a630db1-9e83-49d7-8585-f85db80d00dc)
 
-
-
+Fazendo a chamada a API com subscriptions correta
+![image](https://github.com/user-attachments/assets/c10e75c7-17a3-4196-8153-c944792a2fe0)
